@@ -1,0 +1,50 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/whatsapp
+
+# Behavior: domain
+
+payload:
+- "+.wa.me"
+- "+.whatsapp-plus.info"
+- "+.whatsapp-plus.me"
+- "+.whatsapp-plus.net"
+- "+.whatsapp.cc"
+- "+.whatsapp.com"
+- "+.whatsapp.info"
+- "+.whatsapp.net"
+- "+.whatsapp.org"
+- "+.whatsapp.tv"
+- "+.whatsappbrand.com"
+- DOMAIN,whatshapp.com
+- DOMAIN,whatsapp.net
+- DOMAIN-SUFFIX,betablog.whatsapp.com
+- DOMAIN-SUFFIX,www.whatsapp.com
+- DOMAIN-SUFFIX,webdev.whatsapp.com
+- DOMAIN-SUFFIX,my-od-3.whatsapp.com
+- DOMAIN-SUFFIX,graph.whatsapp.com
+- DOMAIN-SUFFIX,w4.web.whatsapp.com
+- DOMAIN-SUFFIX,api.whatsapp.com
+- DOMAIN-SUFFIX,autodiscover.whatsapp.com
+- DOMAIN-SUFFIX,web.whatsapp.com
+- DOMAIN-SUFFIX,manga.whatsapp.com
+- DOMAIN-SUFFIX,media.whatsapp.com
+- DOMAIN-SUFFIX,v.whatsapp.com
+- DOMAIN-SUFFIX,mmg.whatsapp.com
+- DOMAIN-SUFFIX,c.whatsapp.com
+- DOMAIN-SUFFIX,mail.whatsapp.com
+- DOMAIN-SUFFIX,bin-nokia.whatsapp.com
+- DOMAIN-SUFFIX,w1.web-t.whatsapp.com
+- DOMAIN-SUFFIX,fblr20-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fvca1-2.fna.whatsapp.net
+- DOMAIN-SUFFIX,fnat13-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fgjl1-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,ficn3-2.fna.whatsapp.net
+- DOMAIN-SUFFIX,fsgn7-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fsrg8-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fbze1-2.fna.whatsapp.net
+- DOMAIN-SUFFIX,flfw1-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fhan3-4.fna.whatsapp.net
+- DOMAIN-SUFFIX,flpl1-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fbcn12-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,fbom19-3.fna.whatsapp.net
+- DOMAIN-SUFFIX,fpoa46-1.fna.whatsapp.net
+- DOMAIN-SUFFIX,ftlv2-1.fna.whatsapp.net
