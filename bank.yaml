@@ -1,4 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,bankjatim.co.id
-  - DOMAIN-SUFFIX,shopee.cn
-  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-KEYWORD,bankjatim
