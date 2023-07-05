@@ -1,5 +1,6 @@
 payload:
   # > WHATSAPP
+  - DST-PORT,3478
   - DOMAIN-SUFFIX,api--whatsapp.com
   - DOMAIN-SUFFIX,www.api--whatsapp.com
   - DOMAIN-SUFFIX,cpanel.api--whatsapp.com
